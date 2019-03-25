@@ -1,2 +1,0 @@
-# ImageFinder
-Created with CodeSandbox
